@@ -191,9 +191,9 @@ h2 {
     grid-row-end: 3;
     font-size: 1.2rem;
     text-align: justify ;
-    margin-left: 20%;
-    margin-right: 20%;
-    margin-top: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 0%;
 
 
 }
@@ -387,7 +387,7 @@ max-width: auto;
     
     #copyright {
         display: flex;
-        justify-content: end;
+        justify-content: center;
         align-items: center;
         color: #dac2b4;
 
@@ -869,7 +869,9 @@ h2 {
     max-height: 500px;
   }
 
-
+  #footLang {
+    font-size: 1rem;
+}
   
 }
 
